@@ -1,0 +1,1 @@
+obraz_vm_część* filter=lfs diff=lfs merge=lfs -text
